@@ -1,0 +1,13 @@
+{
+  "name": "json tool",
+  "version": "1.2",
+  "description": "json 格式化工具",
+  "background_page": "background.html",
+  "browser_action": {
+    "default_title": "Json 格式化工具"
+  },
+  "icons": {
+    "128": "img/icon-128.png",
+    "48":"img/icon-48.png"
+  }
+}
